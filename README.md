@@ -1,4 +1,5 @@
 # skimlit
+Implementation of a paper called skimlit for sentence classification
 
 Implemented a paper for sentence classification that makes academic medical papers easier to read by categorizing the abstract. This is an NLP many to one relationship problem.
 
